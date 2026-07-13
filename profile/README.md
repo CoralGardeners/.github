@@ -5,7 +5,7 @@
 
 **Revolutionizing ocean conservation and creating a global movement to save the reef.**
 
-[Website](https://www.coralgardeners.org) · [CG Labs](https://cglabs.coralgardeners.org)
+[Coral Gardeners](https://www.coralgardeners.org) · [CG Labs](https://cglabs.coralgardeners.org)
 
 </div>
 
