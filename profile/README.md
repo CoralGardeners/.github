@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="./CG_IR_banner_web.jpg" width="100%" alt="Coral Gardeners">
+  
 # Coral Gardeners
 
 **Revolutionizing ocean conservation and creating a global movement to save the reef.**
