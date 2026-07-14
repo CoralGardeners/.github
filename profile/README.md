@@ -15,6 +15,14 @@
 
 This GitHub organization hosts the software behind our reef monitoring platform, restoration data pipeline, and member community tools.
 
+<table>
+<tr>
+<td><img src="./tech.jpg" width="100%"></td>
+<td><img src="./livestream (2).jpg" width="100%"></td>
+<td><img src="./night-dive.jpg" width="100%"></td>
+</tr>
+</table>
+
 ### Get Involved
 
 - 🌊 [Adopt a Coral](https://coralgardeners.org/products/adopt-a-coral)
